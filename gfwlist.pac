@@ -1,4 +1,4 @@
-var proxy = 'SOCKS5 127.0.0.1:1080; SOCKS 127.0.0.1:1080; DIRECT;';
+var proxy = 'SOCKS5 192.168.1.31:7890; SOCKS 192.168.1.31:7890; DIRECT;';
 var rules = [
     [
         [],
@@ -1246,6 +1246,8 @@ var rules = [
             "delicious.com",
             "democrats.org",
             "demosisto.hk",
+            "deno.com",
+            "deno.dev",
             "depositphotos.com",
             "desc.se",
             "desipro.de",
@@ -1842,6 +1844,7 @@ var rules = [
             "furbo.org",
             "furhhdl.org",
             "furinkan.com",
+            "furrybar.com",
             "futurechinaforum.org",
             "futuremessage.org",
             "fux.com",
@@ -3441,6 +3444,7 @@ var rules = [
             "nationsonline.org",
             "nationwide.com",
             "naughtyamerica.com",
+            "naver.com",
             "naver.jp",
             "navy.mil",
             "naweeklytimes.com",
